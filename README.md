@@ -1,1 +1,2 @@
-https://github-readme-stats.vercel.app/api?username=amx100&theme=radical
+
+https://github-readme-stats.vercel.app/api?username=amx100&theme=tokyonight
